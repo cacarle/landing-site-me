@@ -95,7 +95,7 @@ Contributions, issues, and feature requests are welcome! Feel free to check [iss
 - Website: [carloscarle.com](https://carloscarle.com)
 - Twitter: [@houseofcarle](https://twitter.com/houseofcarle)
 - GitHub: [@cacarle](https://github.com/cacarle)
-- LinkedIn: [houseofcarle](https://linkedin.com/in/houseofcarle)
+- LinkedIn: [carlos-a-carle](https://www.linkedin.com/in/carlos-a-carle/)
 
 ---
 

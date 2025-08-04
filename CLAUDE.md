@@ -12,10 +12,10 @@ This is a minimalist landing page that serves as the entry point to my online pr
 ## Core Features
 
 - Language cycling between Spanish (default), English, and Chinese
-- Animated particle background for visual interest
+- Animated particle background for visual fluff
 - Icon-only social links (Twitter/X, GitHub, YouTube, LinkedIn)
 - Pop-up contact form
-- Direct link to blog (hosted separately at houseofcarle-blog)
+- Direct link to blog (hosted separately)
 
 ## Technical Guidelines
 
@@ -24,7 +24,7 @@ This is a minimalist landing page that serves as the entry point to my online pr
 - Ensure smooth animations (60fps)
 - Maintain accessibility standards
 - Use semantic HTML
-- Keep the codebase simple and readable
+- Keep the codebase relatively simple and readable
 
 ## Content
 
