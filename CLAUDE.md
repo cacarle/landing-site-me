@@ -1,4 +1,4 @@
-# Landing Site for House of Carle
+# Personal Landing Site
 
 This is a minimalist landing page that serves as the entry point to my online presence. It's designed to be simple, fast, and focused way of connecting curious visitors to my content, social platforms, or just to send me a message.
 
@@ -47,5 +47,4 @@ Each description is paired with a contextual image.
 
 - Consider adding subtle animations on scroll
 - Possibly add a brief "latest from blog" preview (static, updated manually)
-- Keep monitoring performance metrics
 - Ensure the site loads in under 1 second
