@@ -115,6 +115,6 @@
 
 <style>
 	canvas {
-		opacity: 0.2;
+		opacity: 0.7;
 	}
 </style>
